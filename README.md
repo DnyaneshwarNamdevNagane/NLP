@@ -8,3 +8,12 @@ My NLP case studies and projects
 * The classification goal is to predict whether text sms is spam or ham/genuine.
 * Countvectorizer and TF-IDF used for vectorization of texts.
 * KNN, SVM & Deep Learning model used for classification.
+
+
+## Sentiment Analysis using Google Word2Vec model
+
+[Link to "Sentiment Analysis using Google Word2Vec"](https://github.com/DnyaneshwarNamdevNagane/NLP_base/blob/main/Sentiment_analysis_Google_word2vec.ipynb)
+
+* Sentiment analysis of IMDb movie review data
+* Google pretrained Word2Vec model is used
+* Sequential Model is trained over the word vector
