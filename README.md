@@ -17,3 +17,12 @@ My NLP case studies and projects
 * Sentiment analysis of IMDb movie review data
 * Google pretrained Word2Vec model is used
 * Sequential Model is trained over the word vector
+
+
+## Sentiment Analysis using LSTM & Transfer Learning
+
+[Link to "Sentiment Analysis using LSTM & Transfer Learning"](https://github.com/DnyaneshwarNamdevNagane/NLP_base/blob/main/Sentiment_analysis_Google_word2vec.ipynb)
+
+* Sentiment Analysis of Movie review data
+* LSTM layer is used to train the model
+* Glove pretrained model is used for creating pre-trained embeddings
